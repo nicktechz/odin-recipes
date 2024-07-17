@@ -1,3 +1,3 @@
 # ODIN RECIPES
 
-Este es un proyecto de iniciación dentro de curso gratuito de The Odin Project. Básicamente se trata de un sitio web súper sencillo que en el momento solo contiene HTML en el que se muestran unas recetas con sus respectivas imágenes y descripciones.
+This is an introductory project within the free course of The Odin Project. Basically, it is a very simple website that currently only contains HTML, displaying some recipes with their respective images and descriptions.
